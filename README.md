@@ -1,2 +1,3 @@
-The file contains world population data
-data visualization and analysis of world population data
+The file contains world population data.
+In this Dataset, we have Historical Population data for every Country/Territory in the world by different parameterslike Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population GrowthRate, Ranking based on Population, World Population Percentage, etc.
+The goal of this project is to analyze global population trends using historical data and predict future population growth. This involves using machine learning techniques toexplore demographic data, identify key factors influencing population changes, and build predictive models.
